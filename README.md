@@ -11,6 +11,7 @@ Week 2
 * Lecture: Embeddings. Word2vec. FastText.
 * Semninar: Embeddings in Practice. Classification with fasttext.
 * Quiz
+* HW1
 
 Week 3
 * Lecture: Text Classification. NN, CNN
@@ -18,8 +19,9 @@ Week 3
 
 Week 4
 * Lecture: Language models (probabilistic, neural). RNN, LSTM.
-* Seminar
+* Seminar: LMs, NER tools
 * Quiz
+* HW2
 
 Week 5
 * Lecture: Topic Modelling
@@ -41,6 +43,7 @@ Week 9
 * Lecture: Transfer learning. Seasame street.
 * Seminar: Fine-tuning with BERT
 * Quiz
+* HW3
 
 Week 10
 * Lecture: Question Answering
@@ -50,4 +53,8 @@ Week 11
 * Lecture: Text Summarization
 * Seminar
 
-To be continue
+Week 12
+* Lecture + Seminar: Search, VSM
+
+Week 13
+* Lecture + Seminar: GAN, VAE
