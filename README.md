@@ -28,22 +28,22 @@ Week 5
 * Seminar
 
 Week 6
-* Lecture: Syntax
-* Seminar
+* Lecture: Machine Translation. Attention. Transformers
+* Seminar: Transformers
 
 Week 7
-* Lecture: Seq2seq. Machine Translation.
-* Seminar
-
-Week 8
-* Lecture: Transformers.
-* Seminar: Transformers architecture
-
-Week 9
-* Lecture: Transfer learning. Seasame street.
-* Seminar: Fine-tuning with BERT
+* Lecture: Transfer learning. Seasame street. 
+* Seminar: Fine-tuning with BERT and GPT
 * Quiz
 * HW3
+
+Week 8
+* Lecture: How to train big LMs?
+* Seminar
+
+Week 9
+* Lecture: Syntax
+* Seminar
 
 Week 10
 * Lecture: Question Answering
