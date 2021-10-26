@@ -42,12 +42,12 @@ Week 8
 * Seminar
 
 Week 9
-* Lecture: Syntax
-* Seminar
-
-Week 10
 * Lecture: Question Answering
 * Seminar: QA with Squad
+
+Week 10
+* Lecture: Syntax
+* Seminar
 
 Week 11
 * Lecture: Text Summarization
