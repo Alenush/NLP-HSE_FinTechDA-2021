@@ -46,15 +46,12 @@ Week 9
 * Seminar: QA with Squad
 
 Week 10
-* Lecture: Syntax
+* Lecture: Text Summarization
 * Seminar
 
 Week 11
-* Lecture: Text Summarization
+* Lecture: Syntax
 * Seminar
 
 Week 12
 * Lecture + Seminar: Search, VSM
-
-Week 13
-* Lecture + Seminar: GAN, VAE
